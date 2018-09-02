@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World!
 
 Some stuff was added
 
 more stuff was added
+=======
+Hello World!
+>>>>>>> parent of cdd277a... more changes
